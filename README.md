@@ -13,6 +13,4 @@ By leveraging **YOLOv8** and **ONNX Runtime WebAssembly**, this application bypa
 
 **Prerequisites:** Node.js installed on your machine.
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/edge-ai-posture.git](https://github.com/yourusername/edge-ai-posture.git)
+
